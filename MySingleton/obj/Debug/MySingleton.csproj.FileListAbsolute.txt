@@ -1,0 +1,6 @@
+F:\GitDepo\DesignPatterns\Design\MySingleton\bin\Debug\MySingleton.dll
+F:\GitDepo\DesignPatterns\Design\MySingleton\bin\Debug\MySingleton.pdb
+F:\GitDepo\DesignPatterns\Design\MySingleton\obj\Debug\MySingleton.csprojResolveAssemblyReference.cache
+F:\GitDepo\DesignPatterns\Design\MySingleton\obj\Debug\MySingleton.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\MySingleton\obj\Debug\MySingleton.dll
+F:\GitDepo\DesignPatterns\Design\MySingleton\obj\Debug\MySingleton.pdb

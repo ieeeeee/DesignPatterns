@@ -1,0 +1,1 @@
+F:\GitDepo\DesignPatterns\Design\01MySingleton\obj\Debug\01MySingleton.csproj.CoreCompileInputs.cache
