@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 工厂方法
+/// </summary>
 namespace _03FactoryMethod
 {
     /// <summary>

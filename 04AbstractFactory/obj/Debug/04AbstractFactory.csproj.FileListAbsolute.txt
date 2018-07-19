@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\04AbstractFactory\obj\Debug\04AbstractFactory.csprojResolveAssemblyReference.cache
+F:\GitDepo\DesignPatterns\Design\04AbstractFactory\obj\Debug\04AbstractFactory.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\04AbstractFactory\bin\Debug\04AbstractFactory.exe.config
+F:\GitDepo\DesignPatterns\Design\04AbstractFactory\bin\Debug\04AbstractFactory.exe
+F:\GitDepo\DesignPatterns\Design\04AbstractFactory\bin\Debug\04AbstractFactory.pdb
+F:\GitDepo\DesignPatterns\Design\04AbstractFactory\obj\Debug\04AbstractFactory.exe
+F:\GitDepo\DesignPatterns\Design\04AbstractFactory\obj\Debug\04AbstractFactory.pdb
