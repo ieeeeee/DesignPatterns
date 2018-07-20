@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\08CompositeMode\bin\Debug\08CompositeMode.exe.config
+F:\GitDepo\DesignPatterns\Design\08CompositeMode\bin\Debug\08CompositeMode.exe
+F:\GitDepo\DesignPatterns\Design\08CompositeMode\bin\Debug\08CompositeMode.pdb
+F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.csprojResolveAssemblyReference.cache
+F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.exe
+F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.pdb
