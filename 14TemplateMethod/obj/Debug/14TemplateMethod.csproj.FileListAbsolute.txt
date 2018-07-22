@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\14TemplateMethod\bin\Debug\14TemplateMethod.exe.config
+F:\GitDepo\DesignPatterns\Design\14TemplateMethod\bin\Debug\14TemplateMethod.exe
+F:\GitDepo\DesignPatterns\Design\14TemplateMethod\bin\Debug\14TemplateMethod.pdb
+F:\GitDepo\DesignPatterns\Design\14TemplateMethod\obj\Debug\14TemplateMethod.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\14TemplateMethod\obj\Debug\14TemplateMethod.exe
+F:\GitDepo\DesignPatterns\Design\14TemplateMethod\obj\Debug\14TemplateMethod.pdb
+F:\GitDepo\DesignPatterns\Design\14TemplateMethod\obj\Debug\14TemplateMethod.csprojResolveAssemblyReference.cache

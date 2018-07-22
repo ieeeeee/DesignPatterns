@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\10Facade\bin\Debug\10Facade.exe.config
+F:\GitDepo\DesignPatterns\Design\10Facade\bin\Debug\10Facade.exe
+F:\GitDepo\DesignPatterns\Design\10Facade\bin\Debug\10Facade.pdb
+F:\GitDepo\DesignPatterns\Design\10Facade\obj\Debug\10Facade.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\10Facade\obj\Debug\10Facade.exe
+F:\GitDepo\DesignPatterns\Design\10Facade\obj\Debug\10Facade.pdb
+F:\GitDepo\DesignPatterns\Design\10Facade\obj\Debug\10Facade.csprojResolveAssemblyReference.cache

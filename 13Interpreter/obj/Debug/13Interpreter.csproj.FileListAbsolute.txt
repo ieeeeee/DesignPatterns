@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\13Interpreter\bin\Debug\13Interpreter.exe.config
+F:\GitDepo\DesignPatterns\Design\13Interpreter\bin\Debug\13Interpreter.exe
+F:\GitDepo\DesignPatterns\Design\13Interpreter\bin\Debug\13Interpreter.pdb
+F:\GitDepo\DesignPatterns\Design\13Interpreter\obj\Debug\13Interpreter.csprojResolveAssemblyReference.cache
+F:\GitDepo\DesignPatterns\Design\13Interpreter\obj\Debug\13Interpreter.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\13Interpreter\obj\Debug\13Interpreter.exe
+F:\GitDepo\DesignPatterns\Design\13Interpreter\obj\Debug\13Interpreter.pdb

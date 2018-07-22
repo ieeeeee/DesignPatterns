@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\17Iterator\bin\Debug\17Iterator.exe.config
+F:\GitDepo\DesignPatterns\Design\17Iterator\bin\Debug\17Iterator.exe
+F:\GitDepo\DesignPatterns\Design\17Iterator\bin\Debug\17Iterator.pdb
+F:\GitDepo\DesignPatterns\Design\17Iterator\obj\Debug\17Iterator.csprojResolveAssemblyReference.cache
+F:\GitDepo\DesignPatterns\Design\17Iterator\obj\Debug\17Iterator.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\17Iterator\obj\Debug\17Iterator.exe
+F:\GitDepo\DesignPatterns\Design\17Iterator\obj\Debug\17Iterator.pdb
