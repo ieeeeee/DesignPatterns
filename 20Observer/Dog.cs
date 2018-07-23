@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _20Observer
 {
-    public class Dog
+    public class Dog : IObserver
     {
         public void Bark()
         {

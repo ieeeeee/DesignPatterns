@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\21State\obj\Debug\21State.csprojResolveAssemblyReference.cache
+F:\GitDepo\DesignPatterns\Design\21State\obj\Debug\21State.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\21State\bin\Debug\21State.exe.config
+F:\GitDepo\DesignPatterns\Design\21State\bin\Debug\21State.exe
+F:\GitDepo\DesignPatterns\Design\21State\bin\Debug\21State.pdb
+F:\GitDepo\DesignPatterns\Design\21State\obj\Debug\21State.exe
+F:\GitDepo\DesignPatterns\Design\21State\obj\Debug\21State.pdb

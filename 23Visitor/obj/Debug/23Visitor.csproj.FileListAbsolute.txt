@@ -1,0 +1,7 @@
+F:\GitDepo\DesignPatterns\Design\23Visitor\bin\Debug\23Visitor.exe.config
+F:\GitDepo\DesignPatterns\Design\23Visitor\bin\Debug\23Visitor.exe
+F:\GitDepo\DesignPatterns\Design\23Visitor\bin\Debug\23Visitor.pdb
+F:\GitDepo\DesignPatterns\Design\23Visitor\obj\Debug\23Visitor.csprojResolveAssemblyReference.cache
+F:\GitDepo\DesignPatterns\Design\23Visitor\obj\Debug\23Visitor.csproj.CoreCompileInputs.cache
+F:\GitDepo\DesignPatterns\Design\23Visitor\obj\Debug\23Visitor.exe
+F:\GitDepo\DesignPatterns\Design\23Visitor\obj\Debug\23Visitor.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _20Observer
 {
-   public  class Neighboor
+   public  class Neighboor : IObserver
     {
         public void Awake()
         {

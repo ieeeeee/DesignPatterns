@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _20Observer
 {
-   public  class Mouse
+   public  class Mouse : IObserver
     {
         public void Hide()
         {

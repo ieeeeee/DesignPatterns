@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _20Observer
 {
-   public  class Mother
+   public  class Mother : IObserver
     {
         public void Whisper()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _20Observer
 {
-    public class Father
+    public class Father:IObserver
     {
         public void Roar()
         {

@@ -4,3 +4,4 @@ F:\GitDepo\DesignPatterns\Design\19Memento\bin\Debug\19Memento.pdb
 F:\GitDepo\DesignPatterns\Design\19Memento\obj\Debug\19Memento.csproj.CoreCompileInputs.cache
 F:\GitDepo\DesignPatterns\Design\19Memento\obj\Debug\19Memento.exe
 F:\GitDepo\DesignPatterns\Design\19Memento\obj\Debug\19Memento.pdb
+F:\GitDepo\DesignPatterns\Design\19Memento\obj\Debug\19Memento.csprojResolveAssemblyReference.cache
