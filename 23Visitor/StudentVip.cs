@@ -8,6 +8,9 @@ namespace _23Visitor
 {
     public class StudentVip:Student
     {
-
+        public override void GetVideo(IVisitor visitor)
+        {
+            visitor.GetVideoVip();
+        }
     }
 }

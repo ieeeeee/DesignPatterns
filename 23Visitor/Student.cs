@@ -10,9 +10,9 @@ namespace _23Visitor
     {
         public int QQ { get; set; }
         public string Name { get; set; }
-        //public virtual void GetVideo(IVisitor visitor)
-        //{
+        public virtual void GetVideo(IVisitor visitor)
+        {
 
-        //}
+        }
     }
 }

@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace _23Visitor
 {
-    public class StudentFree:Student
+    public interface IVisitor
     {
-        public override void GetVideo(IVisitor visitor)
-        {
-            visitor.GetVideoFree();
-        }
+        void GetVideoFree();
+        void GetVideoVip();
     }
 }
