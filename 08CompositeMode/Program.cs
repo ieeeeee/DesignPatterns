@@ -69,7 +69,7 @@ namespace _08CompositeMode
             };
 
             /*02 运用递归*/
-            DirectoryInfo rootDirec = new DirectoryInfo(@"F:\GitDepo\DesignPatterns\Design");
+            DirectoryInfo rootDirec = new DirectoryInfo(@"F:\GitRepo\DesignPatterns\DesignPatterns\Design");
             List<FileInfo> fileList = new List<FileInfo>();
            
             GetChildFileList(rootDirec, fileList);
@@ -80,7 +80,7 @@ namespace _08CompositeMode
 
             MyNode myNode = new MyNode()
             {
-                Path = @"F:\GitRepo\DesignPatterns\Design"
+                Path = @"F:\GitRepo\DesignPatterns\DesignPatterns\Design"
             };
             List<MyNode> nlist=myNode.GetMyDirecList();
 

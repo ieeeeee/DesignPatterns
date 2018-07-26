@@ -5,3 +5,10 @@ F:\GitDepo\DesignPatterns\Design\16Command\obj\Debug\16Command.csprojResolveAsse
 F:\GitDepo\DesignPatterns\Design\16Command\obj\Debug\16Command.csproj.CoreCompileInputs.cache
 F:\GitDepo\DesignPatterns\Design\16Command\obj\Debug\16Command.exe
 F:\GitDepo\DesignPatterns\Design\16Command\obj\Debug\16Command.pdb
+F:\GitRepo\DesignPatterns\DesignPatterns\16Command\bin\Debug\16Command.exe.config
+F:\GitRepo\DesignPatterns\DesignPatterns\16Command\bin\Debug\16Command.exe
+F:\GitRepo\DesignPatterns\DesignPatterns\16Command\bin\Debug\16Command.pdb
+F:\GitRepo\DesignPatterns\DesignPatterns\16Command\obj\Debug\16Command.csprojAssemblyReference.cache
+F:\GitRepo\DesignPatterns\DesignPatterns\16Command\obj\Debug\16Command.csproj.CoreCompileInputs.cache
+F:\GitRepo\DesignPatterns\DesignPatterns\16Command\obj\Debug\16Command.exe
+F:\GitRepo\DesignPatterns\DesignPatterns\16Command\obj\Debug\16Command.pdb

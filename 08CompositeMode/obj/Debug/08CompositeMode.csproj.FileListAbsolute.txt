@@ -5,3 +5,10 @@ F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.cspro
 F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.csproj.CoreCompileInputs.cache
 F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.exe
 F:\GitDepo\DesignPatterns\Design\08CompositeMode\obj\Debug\08CompositeMode.pdb
+F:\GitRepo\DesignPatterns\DesignPatterns\08CompositeMode\bin\Debug\08CompositeMode.exe.config
+F:\GitRepo\DesignPatterns\DesignPatterns\08CompositeMode\bin\Debug\08CompositeMode.exe
+F:\GitRepo\DesignPatterns\DesignPatterns\08CompositeMode\bin\Debug\08CompositeMode.pdb
+F:\GitRepo\DesignPatterns\DesignPatterns\08CompositeMode\obj\Debug\08CompositeMode.csprojAssemblyReference.cache
+F:\GitRepo\DesignPatterns\DesignPatterns\08CompositeMode\obj\Debug\08CompositeMode.csproj.CoreCompileInputs.cache
+F:\GitRepo\DesignPatterns\DesignPatterns\08CompositeMode\obj\Debug\08CompositeMode.exe
+F:\GitRepo\DesignPatterns\DesignPatterns\08CompositeMode\obj\Debug\08CompositeMode.pdb
